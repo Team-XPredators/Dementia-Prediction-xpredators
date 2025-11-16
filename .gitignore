@@ -1,0 +1,4 @@
+# Ignore all Word documents and Python files
+*.docx
+*.py
+*.tmp
